@@ -11,9 +11,9 @@
         <module name="clients" />
         <module name="ville" />
         <module name="marchands" />
-        <module name="time" />
-        <module name="banque" />
         <module name="application" />
+        <module name="banque" />
+        <module name="time" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
