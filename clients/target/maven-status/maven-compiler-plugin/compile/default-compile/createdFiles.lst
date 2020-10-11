@@ -1,0 +1,4 @@
+app\metier\Client.class
+app\metier\impl\spi\AcheterServiceImpl.class
+app\metier\Vikings.class
+app\spi\AcheterService.class

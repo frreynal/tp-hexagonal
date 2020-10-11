@@ -1,0 +1,7 @@
+app\metier\impl\api\PatisserieBoutiqueImpl.class
+app\metier\Ville.class
+app\metier\impl\spi\CommandeServiceImpl.class
+app\metier\impl\spi\StockServiceImpl.class
+app\spi\CommandeService.class
+app\api\PatisserieBoutique.class
+app\spi\StockService.class
